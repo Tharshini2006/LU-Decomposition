@@ -45,10 +45,7 @@ print(X)
 
 ## Output:
 ![lu decomposition]()![Screenshot 2024-11-30 233405](https://github.com/user-attachments/assets/c789e251-f346-4e64-bb32-0affc7b642eb)
-
-## Result:
-Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
-
+![Screenshot 2024-12-04 231008](https://github.com/user-attachments/assets/01190ea2-14a4-4f88-8187-db276f15f9d1)
 
 
 ## Result:
